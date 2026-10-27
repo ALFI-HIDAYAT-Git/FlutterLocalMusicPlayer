@@ -1,4 +1,4 @@
-# Nada — pemutar musik lokal
+# Music Player — pemutar musik lokal
 
 Aplikasi Flutter Android untuk memutar musik lokal secara offline tanpa iklan.
 
